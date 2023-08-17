@@ -1,7 +1,5 @@
 - 👋 Hi, I’m NIMA
 - 👀 I’m interested in Compüter 
-- 🌱 I’m currently learning: MACHINE LEARNING 
-
 - 📫 How to reach me :
        nimabagherzadehw@gmail.com
 
