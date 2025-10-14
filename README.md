@@ -68,8 +68,10 @@ Here are some of the projects I'm proud of. You can find more in my repositories
 - **IR Remote Cloner**: A C++ hardware project designed to capture and replicate Infrared remote control signals.
 ---
 
-<p align="center">
-  <a href="https://readme-jokes.vercel.app/api">
-    <img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula" alt="README Jokes">
-  </a>
-</p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
