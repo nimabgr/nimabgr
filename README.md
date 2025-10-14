@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Computer Engineering Graduate from the <b>University of Tabriz</b> with a deep passion for <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Machine Vision</b>.
+    Computer Engineering Graduate from the <b>University of Tabriz</b> with a <b>profound interest in</b> <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Machine Vision</b>.
   </em>
 </p>
 
@@ -17,18 +17,17 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
-- I'm a recent Computer Engineering graduate from the **University of Tabriz**.
-- I’m currently diving deep into **Machine Learning** and **Computer Vision** concepts.
-- My goal is to pursue a Master's degree in **Artificial Intelligence** and contribute to innovative research.
-- I'm a self-learner, always excited to explore new technologies and solve challenging problems.
+- 🎓 I'm a recent Computer Engineering graduate from the **University of Tabriz**.
+- 🌱 I’m currently diving deep into **Machine Learning** and **Computer Vision** concepts.
+- 🎯 My goal is to pursue a Master's degree in **Artificial Intelligence** and contribute to innovative research.
+- 💡 I'm a self-learner, always excited to explore new technologies and solve challenging problems.
+- 💬 Ask me about **Python**, **OpenCV**, **TensorFlow**, or **PyTorch**.
 
 ---
 
-### My Skills & Technologies
-
-Here are some of the technologies I've been working with:
+### 🛠️ My Skills & Technologies
 
 <p align="left">
   <strong>Languages:</strong><br>
@@ -46,21 +45,31 @@ Here are some of the technologies I've been working with:
 </p>
 
 <p align="left">
-  <strong>Web Scraping & Automation:</strong><br>
+  <strong>Web Scraping:</strong><br>
+  <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Requests-222222?style=for-the-badge&logo=python&logoColor=white" alt="requests"/> </a>
   <a href="https://selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/> </a>
   <a href="https://beautiful-soup-4.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/BeautifulSoup-666666?style=for-the-badge&logo=python&logoColor=white" alt="beautifulsoup"/> </a>
 </p>
 
+<p align="left">
+  <strong>Tools & Environments:</strong><br>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/> </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="colab"/> </a>
+</p>
+
 ---
 
-### My Projects
+### ✨ My Projects
 
 Here are some of the projects I'm proud of. You can find more in my repositories tab.
 
-- **Volume Gesture Control**: A Python-based project using **OpenCV** and the Hand Tracking module to control system volume through hand gestures.
-- **Web Scraper Suite**: A collection of scripts for automated data extraction from websites using **Requests**, **Selenium**, and **BeautifulSoup**.
-- **IR Remote Cloner**: A C++ hardware project designed to capture and replicate Infrared remote control signals.
+- 🔊 **Volume Gesture Control**: A Python-based project using **OpenCV** and the Hand Tracking module to control system volume through hand gestures.
+- 🌐 **Web Scraper Suite**: A collection of scripts for automated data extraction from websites using **Requests**, **Selenium**, and **BeautifulSoup**.
+- 📡 **IR Remote Cloner**: A C++ hardware project designed to capture and replicate Infrared remote control signals.
 ---
+
+### 😂 Here's a Random Programming Joke for You:
 
 <p align="center">
   <a href="https://readme-jokes.vercel.app/api">
