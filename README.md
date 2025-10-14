@@ -23,7 +23,6 @@
 - 🌱 I’m currently diving deep into **Machine Learning** and **Computer Vision** concepts.
 - 🎯 My goal is to pursue a Master's degree in **Artificial Intelligence** and contribute to innovative research.
 - 💡 I'm a self-learner, always excited to explore new technologies and solve challenging problems.
-- 💬 Ask me about **Python**, **OpenCV**, **TensorFlow**, or **PyTorch**.
 
 ---
 
