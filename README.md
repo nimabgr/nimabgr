@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ My Skills & Technologies
+### My Skills & Technologies
 
 <p align="left">
   <strong>Languages:</strong><br>
@@ -73,3 +73,5 @@ Here are some of the projects I'm proud of. You can find more in my repositories
     <img align="center" src="https://readme-jokes.vercel.app/api?theme=dracula" alt="README Jokes">
   </a>
 </p>
+
+---
