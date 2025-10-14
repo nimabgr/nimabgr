@@ -17,13 +17,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 I'm a recent Computer Engineering graduate from the **University of Tabriz**.
-- 🌱 I’m currently diving deep into **Machine Learning** and **Computer Vision** concepts.
-- 🎯 My goal is to pursue a Master's degree in **Artificial Intelligence** and contribute to innovative research.
-- 💡 I'm a self-learner, always excited to explore new technologies and solve challenging problems.
-- 💬 Ask me about **Python**, **OpenCV**, **TensorFlow**, or **PyTorch**.
+- I'm a recent Computer Engineering graduate from the **University of Tabriz**.
+- I’m currently diving deep into **Machine Learning** and **Computer Vision** concepts.
+- My goal is to pursue a Master's degree in **Artificial Intelligence** and contribute to innovative research.
+- I'm a self-learner, always excited to explore new technologies and solve challenging problems.
 
 ---
 
@@ -60,16 +59,14 @@
 
 ---
 
-### ✨ My Projects
+### My Projects
 
 Here are some of the projects I'm proud of. You can find more in my repositories tab.
 
-- 🔊 **Volume Gesture Control**: A Python-based project using **OpenCV** and the Hand Tracking module to control system volume through hand gestures.
-- 🌐 **Web Scraper Suite**: A collection of scripts for automated data extraction from websites using **Requests**, **Selenium**, and **BeautifulSoup**.
-- 📡 **IR Remote Cloner**: A C++ hardware project designed to capture and replicate Infrared remote control signals.
+- **Volume Gesture Control**: A Python-based project using **OpenCV** and the Hand Tracking module to control system volume through hand gestures.
+- **Web Scraper Suite**: A collection of scripts for automated data extraction from websites using **Requests**, **Selenium**, and **BeautifulSoup**.
+- **IR Remote Cloner**: A C++ hardware project designed to capture and replicate Infrared remote control signals.
 ---
-
-### 😂 Here's a Random Programming Joke for You:
 
 <p align="center">
   <a href="https://readme-jokes.vercel.app/api">
