@@ -74,4 +74,3 @@ Here are some of the projects I'm proud of. You can find more in my repositories
   </a>
 </p>
 
----
