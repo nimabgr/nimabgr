@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    Computer Engineering Graduate from the <b>University of Tabriz</b> with a <b>profound interest in</b> <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Machine Vision</b>.
+    Computer Engineering Graduate with a <b>profound interest in</b> <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Machine Vision</b>.
   </em>
 </p>
 
