@@ -19,14 +19,14 @@
 
 ### About Me
 
-- I'm a recent Computer Engineering graduate from the **University of Tabriz**.
-- I’m currently diving deep into **Machine Learning** and **Computer Vision** concepts.
-- My goal is to pursue a Master's degree in **Artificial Intelligence** and contribute to innovative research.
-- I'm a self-learner, always excited to explore new technologies and solve challenging problems.
+- 🎓 I'm a recent Computer Engineering graduate from the **University of Tabriz**.
+- 🌱 I’m currently diving deep into **Machine Learning** and **Computer Vision** concepts.
+- 🎯 My goal is to pursue a Master's degree in **Artificial Intelligence** and contribute to innovative research.
+- 💡 I'm a self-learner, always excited to explore new technologies and solve challenging problems.
 
 ---
 
-### My Skills & Technologies
+### My Skills 
 
 <p align="left">
   <strong>Languages:</strong><br>
@@ -66,6 +66,8 @@ Here are some of the projects I'm proud of. You can find more in my repositories
 - **Volume Gesture Control**: A Python-based project using **OpenCV** and the Hand Tracking module to control system volume through hand gestures.
 - **Web Scraper Suite**: A collection of scripts for automated data extraction from websites using **Requests**, **Selenium**, and **BeautifulSoup**.
 - **IR Remote Cloner**: A C++ hardware project designed to capture and replicate Infrared remote control signals.
+- **Drug Discovery in Bioinformatics**:Teamed up to develop a machine learning model in Python for predicting the bioactivity of Acetylcholinesterase inhibitors using data from the ChEMBL database.
+- **Brain Tumor Segmentation (U-Net)**:A PyTorch implementation of the U-Net architecture to perform semantic segmentation of Lower-Grade Glioma (LGG) tumors from MRI scans.
 ---
 
 <p align="center">
