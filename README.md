@@ -50,8 +50,8 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
   </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/beautifulsoup/white" alt="beautifulsoup" width="40" height="40"/>
+  <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/requests-333?style=for-the-badge&logo=python&logoColor=white&color=black" alt="requests"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/white" alt="github" width="40" height="40"/>
